@@ -1,5 +1,6 @@
+//: ## Stack
 import Foundation
-
+//: Generic Stack
 struct Stack<Element> {
     private var array: [Element] = []
     
@@ -23,13 +24,13 @@ struct Stack<Element> {
         array.count
     }
 }
-
+//: ### Testing
 var stack = Stack<String>()
 
 stack.push("A")
 stack.push("B")
 stack.push("C")
-
+//: ### Traversal
 while !stack.isEmpty {
     print(stack.pop() ?? "")
 }

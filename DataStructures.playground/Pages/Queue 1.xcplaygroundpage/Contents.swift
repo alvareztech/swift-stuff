@@ -1,5 +1,6 @@
+//: ## Queue
 import Foundation
-
+//: Generic Queue
 struct Queue<Element> {
     private var array: [Element] = []
     
@@ -23,13 +24,13 @@ struct Queue<Element> {
         array.count
     }
 }
-
+//: ### Testing
 var queue = Queue<String>()
 
 queue.add("A")
 queue.add("B")
 queue.add("C")
-
+//: ### Traversal
 while !queue.isEmpty {
     let e = queue.remove()
     print(e ?? "")

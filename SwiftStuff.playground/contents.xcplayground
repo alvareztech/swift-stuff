@@ -16,11 +16,6 @@
         <page name='inout'/>
         <page name='dictionary'/>
         <page name='test'/>
-        <page name='Queue'/>
-        <page name='Queue1'/>
-        <page name='Stack'/>
-        <page name='Stack 1'/>
-        <page name='Stack 2'/>
         <page name='mutating-func'/>
         <page name='ComputedProperties'/>
         <page name='Tree'/>

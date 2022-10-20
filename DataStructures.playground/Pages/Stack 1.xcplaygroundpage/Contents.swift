@@ -1,5 +1,6 @@
+//: ## Stack
 import Foundation
-
+//: Basic Stack of Strings
 struct Stack {
     private var array: [String] = []
     

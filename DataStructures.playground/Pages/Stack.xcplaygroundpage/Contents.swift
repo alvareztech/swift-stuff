@@ -1,6 +1,6 @@
-//: # Stack
+//: ## Stack
 import Foundation
-
+//: First version without a `Struct`
 var stack: [String] = []
 
 stack.append("A")
