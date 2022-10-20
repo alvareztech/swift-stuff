@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='defer'/>
+        <page name='defer2'/>
+        <page name='defer3'/>
+        <page name='deinit'/>
+        <page name='didSet'/>
+        <page name='fallthrough'/>
+        <page name='closures'/>
+        <page name='struct'/>
+        <page name='compactMap'/>
+        <page name='object'/>
+        <page name='mutating'/>
+        <page name='some'/>
+        <page name='inout'/>
+        <page name='dictionary'/>
+        <page name='test'/>
+        <page name='Queue'/>
+        <page name='Queue1'/>
+        <page name='Stack'/>
+        <page name='Stack 1'/>
+        <page name='Stack 2'/>
+        <page name='mutating-func'/>
+        <page name='ComputedProperties'/>
+        <page name='Tree'/>
+        <page name='weak-self'/>
+        <page name='weak-self-1'/>
+        <page name='weak-self-2'/>
+        <page name='weak-self-3'/>
+        <page name='weak-self-4'/>
+        <page name='keys-paths'/>
+        <page name='sort'/>
+        <page name='map-compactMap-flatMap'/>
+    </pages>
+</playground>
