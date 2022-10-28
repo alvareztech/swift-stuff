@@ -11,3 +11,5 @@
 
 - [Stack](/DataStructures.playground/Pages/Stack.xcplaygroundpage/Contents.swift)
 - [Queue](/DataStructures.playground/Pages/Queue.xcplaygroundpage/Contents.swift)
+- [Tree](/DataStructures.playground/Pages/Stack.xcplaygroundpage/Contents.swift)
+  - [Tree Not Binary](/DataStructures.playground/Pages/Tree%20Not%20Binary.xcplaygroundpage/Contents.swift)  
