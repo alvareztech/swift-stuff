@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 func doSomething() {
     defer { print("a") }
     defer { print("b") }
@@ -9,4 +7,7 @@ func doSomething() {
 
 doSomething()
 
-//: [Next](@next)
+// d
+// c
+// b
+// a

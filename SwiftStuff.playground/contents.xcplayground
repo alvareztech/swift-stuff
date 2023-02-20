@@ -18,7 +18,6 @@
         <page name='test'/>
         <page name='mutating-func'/>
         <page name='ComputedProperties'/>
-        <page name='Tree'/>
         <page name='weak-self'/>
         <page name='weak-self-1'/>
         <page name='weak-self-2'/>
@@ -27,5 +26,13 @@
         <page name='keys-paths'/>
         <page name='sort'/>
         <page name='map-compactMap-flatMap'/>
+        <page name='Untitled Page 2'/>
+        <page name='Untitled Page 3'/>
+        <page name='Thread-safe'/>
+        <page name='capture list'/>
+        <page name='where-some'/>
+        <page name='actor'/>
+        <page name='serialQueue'/>
+        <page name='concurrentQueue'/>
     </pages>
 </playground>
