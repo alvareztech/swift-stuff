@@ -58,9 +58,29 @@ func postOrderTraversal(_ node: Node<Int>?) {
     print(node.value, terminator: " ")
 }
 
+// level-order traversal, also known as breadth-first search (BFS)
+func levelOrderTraversal(_ root: Node<Int>?) {
+    guard let root = root else { return }
+    var queue = [root]
+    while !queue.isEmpty {
+        let current = queue.removeFirst()
+        print(current.value, terminator: " ")
+        
+        if let left = current.left {
+            queue.append(left)
+        }
+        
+        if let right = current.right {
+            queue.append(right)
+        }
+    }
+}
+
 print("InOrder")
 inOrderTraversal(root)
 print("\nPreOrder")
 preOrderTraversal(root)
 print("\nPostOrder")
 postOrderTraversal(root)
+print("\nlevelOrderTraversal")
+levelOrderTraversal(root)

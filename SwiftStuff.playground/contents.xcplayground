@@ -9,7 +9,9 @@
         <page name='fallthrough'/>
         <page name='closures'/>
         <page name='struct'/>
+        <page name='map'/>
         <page name='compactMap'/>
+        <page name='flatMap'/>
         <page name='object'/>
         <page name='mutating'/>
         <page name='some'/>
@@ -34,5 +36,9 @@
         <page name='actor'/>
         <page name='serialQueue'/>
         <page name='concurrentQueue'/>
+        <page name='DispatchWorkItem'/>
+        <page name='DispatchQueue-main'/>
+        <page name='Identical-operator'/>
+        <page name='switch'/>
     </pages>
 </playground>

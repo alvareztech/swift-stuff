@@ -20,4 +20,7 @@ let viewController = SubViewController()
 viewController.view = "a"
 viewController.view = "b"
 
-//: [Next](@next)
+//Base: a
+//Sub: a
+//Base: b
+//Sub: b
